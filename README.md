@@ -1,0 +1,1 @@
+This is the repo for learning course [Modern React with Redux](https://www.udemy.com/course/react-redux/)
